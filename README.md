@@ -38,9 +38,9 @@ This project converts text messages into **Morse code** using an **ESP8266** mic
 
 ## 📲 Blynk Setup
 
-- **Template ID**: `TMPL3EqVVez8o`
-- **Template Name**: `Morse Code`
-- **Auth Token**: *(insert yours if changed)*
+- **Template ID**
+- **Template Name**
+- **Auth Token**
 - Add a **Text Input Widget** and link it to **V2**
 
 ## 📡 Network Setup
