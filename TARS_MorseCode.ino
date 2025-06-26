@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3EqVVez8o"
-#define BLYNK_TEMPLATE_NAME "Morse Code"
-#define BLYNK_AUTH_TOKEN "qNASWkHywcr4VTFBJsT-ngFt-VXu1XxS"
+#define BLYNK_TEMPLATE_ID 
+#define BLYNK_TEMPLATE_NAME 
+#define BLYNK_AUTH_TOKEN 
 #define LED_PIN 15
 
 #include <Wire.h>
