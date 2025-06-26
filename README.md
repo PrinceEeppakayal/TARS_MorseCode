@@ -8,7 +8,6 @@ This project converts text messages into **Morse code** using an **ESP8266** mic
 - ESP8266 (e.g., NodeMCU)
 - I2C 16x2 LCD Display
 - LED
-- Resistor (220Ω)
 - Jumper wires
 - Breadboard
 - Wi-Fi Connection
