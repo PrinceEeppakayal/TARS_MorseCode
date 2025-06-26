@@ -11,6 +11,7 @@ This project converts text messages into **Morse code** using an **ESP8266** mic
 - Jumper wires
 - Breadboard
 - Wi-Fi Connection
+- Buzzer
 
 ## 📱 Features
 
@@ -45,7 +46,7 @@ This project converts text messages into **Morse code** using an **ESP8266** mic
 
 ## 📡 Network Setup
 
-char ssid[] = "Prince Eeppakayal";
+char ssid[] = "Prince Eeppakayal";<br>
 char pass[] = "1232Tars";
 
 ## 🧠 Author
