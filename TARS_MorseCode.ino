@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID 
-#define BLYNK_TEMPLATE_NAME 
-#define BLYNK_AUTH_TOKEN 
+#define BLYNK_TEMPLATE_ID //put yopur own blynk template id
+#define BLYNK_TEMPLATE_NAME "Morse Code" //your project name
+#define BLYNK_AUTH_TOKEN //your blynk auth token
 #define LED_PIN 15
 
 #include <Wire.h>
